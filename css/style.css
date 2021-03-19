@@ -1,0 +1,38 @@
+body {
+    background: url("../images/photo.jpg") no-repeat center/cover;
+    min-height: 100vh;
+    font-family: 'Della Respira', serif;
+}
+
+.container {
+    max-width: 1050px;
+    margin: 0 auto;
+}
+
+.lastResult {
+    width: 300px;
+}
+
+.guess-number {
+    text-align: center;
+    padding-top: 50px;
+
+}
+
+.lowOrHi {
+    width: 300px;
+}
+
+.guessSubmit {
+    background-color: green;
+}
+
+h1 {
+    font-size: 40px;
+}
+
+.resultParas {
+    display: inline-block;
+    text-align: center;
+}
+
